@@ -1,0 +1,29 @@
+[33mcommit 338ef91717805d39e74f88de954aef8ff32b2248[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Moe-noob <alkhayalmohamed@gmail.com>
+Date:   Sun Dec 7 03:14:44 2025 -0800
+
+    Add .gitignore
+
+[33mcommit 275d0fc9a06d0216d9fd892ea3dc0a0f7a9c1b58[m
+Author: Moe-noob <alkhayalmohamed@gmail.com>
+Date:   Sun Dec 7 03:07:08 2025 -0800
+
+    Added a name.txt
+
+[33mcommit 157aac6a19164e0b08657b328e9538352e6dd9f9[m
+Author: Moe-noob <alkhayalmohamed@gmail.com>
+Date:   Sun Dec 7 03:03:07 2025 -0800
+
+    Add main2.py
+
+[33mcommit c6442530afa7f28812dbde21e6c6d4a46ff96473[m
+Author: Moe-noob <alkhayalmohamed@gmail.com>
+Date:   Sun Dec 7 02:54:56 2025 -0800
+
+    Add hello file
+
+[33mcommit dbd221a0efcf8ceb3678310b8038fb10cfe86999[m
+Author: Moe-noob <alkhayalmohamed@gmail.com>
+Date:   Sun Dec 7 02:41:46 2025 -0800
+
+    Initial commit
